@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  loganalysisagent:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-14T17:49:44.9298713+05:30"
+    description: A Helm chart for Kubernetes
+    digest: a42ca43a4cbd5913f396b6497801455465b0bc15c69384a8c9af1c733f468aa0
+    name: loganalysisagent
+    urls:
+    - https://github.com/pasankav/loganalysisagent/loganalysisagent-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-11-14T17:49:44.9298713+05:30"
